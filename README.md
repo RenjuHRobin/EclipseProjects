@@ -1,0 +1,1 @@
+Sorting techniques: Bubble,Insertion,Selection,Merge,Quick,Heap
